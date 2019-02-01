@@ -1,0 +1,61 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "employeeID": "451",
+        "firstname": "Bob",
+        "lastname": "stuart"
+      },
+      {
+        "id": 2,
+        "employeeID": "452",
+        "firstname": "Mark",
+        "lastname": "Zuken"
+      },
+      {
+        "id": 3,
+        "employeeID": "453",
+        "firstname": "Matt",
+        "lastname": "Brown"
+      },
+      {
+        "id": 4,
+        "employeeID": "454",
+        "firstname": "Thomas. A",
+        "lastname": "Edison"
+      },
+      {
+        "id": 5,
+        "employeeID": "455",
+        "firstname": "Neil",
+        "lastname": "Armstrong"
+      }
+    ],
+    "salaries": [
+        {
+            "id": 1,
+            "employeeID": "451",
+            "salary": 1500
+        },
+        {
+            "id": 2,
+            "employeeID": "452",
+            "salary": 1845
+        },
+        {
+            "id": 3,
+            "employeeID": "453",
+            "salary": 2100
+        },
+        {
+            "id": 4,
+            "employeeID": "454",
+            "salary": 1190
+        },
+        {
+            "id": 5,
+            "employeeID": "455",
+            "salary": 1201
+        }
+    ]
+  }

@@ -1,0 +1,18 @@
+<table class="table table-sm table-stripped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>EmployeeID</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor = "let p of employees">
+            <td>{{p.id}}</td>
+            <td>{{p.employeeID}}</td>
+            <td>{{p.firstname}}</td>
+            <td>{{p.lastname}}</td>
+        </tr>
+    </tbody>
+</table>
